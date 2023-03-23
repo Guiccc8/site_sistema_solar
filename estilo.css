@@ -1,0 +1,104 @@
+body{ width: 95%;
+margin:auto;
+padding-left: 10px;
+padding-right: 10px;
+font-family: sans-serif;
+background: url(universo.png) center;
+color:white;
+}
+main {
+     background-color:#000000a8;
+    padding: 5px; 
+   
+
+} 
+/*sistema solar*/
+#sol{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 130px;
+    padding-left: 18px;}
+
+#mercurio{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 130px;
+    padding-left: 18px;}
+#venus{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 130px;
+    padding-left: 18px;
+}
+#terra{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 160px;
+    padding-left: 18px;
+}
+#marte{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 150px;
+    padding-left: 18px;
+}#jupiter{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 130px;
+    padding-left: 18px;
+}#saturno{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 150px;
+    padding-left: 18px;
+}#urano{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 150px;
+    padding-left: 18px;
+}#netuno{
+    width:  300px;
+    height: 250px;
+    padding-bottom: 150px;
+    padding-left: 18px;
+}
+
+p#ptabela1 { 
+padding-bottom: 150px;
+padding-right: 0px;
+padding-left: 15px;
+line-height: 1.5;
+
+}
+
+table{
+    width: 1000px;
+    height:260px;
+}
+h2{ padding-bottom:10px;
+padding-left: 120px;
+font-family: 'Playfair Display', serif;
+font-size: 30px;}
+
+h3 {padding-left: 20px;}
+
+    /*esquerda*/
+    side#esquerda {height: 200px;}
+   /* rodape*/
+    footer#rodape {text-align:center;
+        padding: 18px;
+ }
+   /*embaixo*/
+a#e { color:#00f3ff;}
+
+
+a#boi{ color:#00f3ff;}
+a#macaco{ color:#00f3ff;}
+
+#partvideo{ margin-top: -50px;}
+
+#video{margin-bottom: 30px;
+margin-left: 350px;}
+
+p.final{margin: 0px 30px 0px 30px;}
+
